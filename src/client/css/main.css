@@ -1,6 +1,7 @@
-* {
-    font-family: sans-serif;
-    font-size: 14px;
+.jersey-10-regular {
+  font-family: "Jersey 10", sans-serif;
+  font-weight: 400;
+  font-style: normal;
 }
 
 html, body {
